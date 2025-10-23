@@ -53,17 +53,17 @@
 | Dortmund-Marten                  | Hangeney Str., 44379 Dortmund                  | 8001541 | [Bahnhof Dortmund-Marten](https://www.bahnhof.de/dortmund-marten) |
 | Dortmund-Marten Süd              | Schulte Heuthaus-Str., 44379 Dortmund          | 8001542 | [Bahnhof Dortmund-Marten Süd](https://www.bahnhof.de/dortmund-marten-sued) |
 | Dortmund-Mengede                 | Castroper Str., 44359 Dortmund                 | 8001543 | [Bahnhof Dortmund-Mengede](https://www.bahnhof.de/dortmund-mengede) |
-| Dortmund-Rahm                    | | 8001544 | [Bahnhof Dortmund-Rahm]() |
-| Dortmund-Sölde                   | | 8001545 | [Bahnhof Dortmund-Sölde]() |
-| Dortmund-Wickede                 | | 8001546 | [Bahnhof Dortmund-Wickede]() |
-| Dortmund-Somborn                 | | 8001549 | [Bahnhof Dortmund-Somborn]() |
-| Dortmund-Körne West              | | 8003916 | [Bahnhof Dortmund-Körne West]() |
-| Dortmund-Wickede West            | | 8003936 | [Bahnhof Dortmund-Wickede West]() |
-| Dortmund West                    | | 8003946 | [Bahnhof Dortmund West]() |
-| Dortmund-Dorstfeld Süd           | | 8004230 | [Bahnhof Dortmund-Dorstfeld Süd]() |
-| Dortmund-Kley                    | | 8004269 | [Bahnhof Dortmund-Kley]() |
-| Dortmund-Oespel                  | | 8004288 | [Bahnhof Dortmund-Oespel]() |
-| Dortmund Universität             | | 8004419 | [Bahnhof Dortmund Universität]() |
+| Dortmund-Rahm                    | Rahmer Str., 44369 Dortmund                    | 8001544 | [Bahnhof Dortmund-Rahm](https://www.bahnhof.de/dortmund-rahm) |
+| Dortmund-Sölde                   | Jasminstr., 44289 Dortmund                     | 8001545 | [Bahnhof Dortmund-Sölde](https://www.bahnhof.de/dortmund-soelde) |
+| Dortmund-Wickede                 | Wickeder Hellweg, 44319 Dortmund               | 8001546 | [Bahnhof Dortmund-Wickede](https://www.bahnhof.de/dortmund-wickede) |
+| Dortmund-Somborn                 | Somborner Str., 44388 Dortmund                 | 8001549 | [Bahnhof Dortmund-Somborn](https://www.bahnhof.de/dortmund-somborn) |
+| Dortmund-Körne West              | Berthold-Hof, 44143 Dortmund                   | 8003916 | [Bahnhof Dortmund-Körne West](https://www.bahnhof.de/dortmund-koerne-west) |
+| Dortmund-Wickede West            | Bebelstr., 44319 Dortmund                      | 8003936 | [Bahnhof Dortmund-Wickede West](https://www.bahnhof.de/dortmund-wickede-west) |
+| Dortmund West                    | Lange Str., 44137 Dortmund                     | 8003946 | [Bahnhof Dortmund West](https://www.bahnhof.de/dortmund-west) |
+| Dortmund-Dorstfeld Süd           | Friedrich-Henkel-Weg, 44149 Dortmund           | 8004230 | [Bahnhof Dortmund-Dorstfeld Süd](https://www.bahnhof.de/dortmund-dorstfeld-sued) |
+| Dortmund-Kley                    | Kleyer-Weg, 44149 Dortmund                     | 8004269 | [Bahnhof Dortmund-Kley](https://www.bahnhof.de/dortmund-kley) |
+| Dortmund-Oespel                  | Auf der Linnert, 44149 Dortmund                | 8004288 | [Bahnhof Dortmund-Oespel](https://www.bahnhof.de/dortmund-oespel) |
+| Dortmund Universität             | Universitätsgelände, 44227 Dortmund            | 8004419 | [Bahnhof Dortmund Universität](https://www.bahnhof.de/dortmund-universitaet) |
 | Essen Hauptbahnhof               | Am Hauptbahnhof 5, 45127 Essen                 | 8000098 | [Essen Hbf](https://www.bahnhof.de/essen-hbf) |
 | Essen-Steele                     | Steeler Platz 1, 45276 Essen                   | 8000099 | [Bahnhof Essen-Steele](https://www.bahnhof.de/essen-steele) |
 | Hagen Hauptbahnhof               | Berliner Platz 1, 58089 Hagen                  | 8000142 | [Hagen Hbf](https://www.bahnhof.de/hagen-hbf) |
