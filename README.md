@@ -78,11 +78,24 @@
 | Duisburg-Wedau                   | Wedauer Brücke 1, 47279 Duisburg               | 8001612 | [Bahnhof Duisburg-Wedau](https://www.bahnhof.de/duisburg-wedau) |
 | Duisburg Entenfang               | Bissingheimer Str., 47279 Duisburg             | 8005272 | [Bahnhof Duisburg Entenfang](https://www.bahnhof.de/duisburg-entenfang) |
 | Ennepetal (Gevelsberg)           | Bahnhofstraße 19, 58256 Ennepetal              | 8001795 | [Bahnhof Ennepetal (Gevelsberg)](https://www.bahnhof.de/ennepetal-gevelsberg) |
-| | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
 | Essen Hauptbahnhof               | Am Hauptbahnhof 5, 45127 Essen                 | 8000098 | [Essen Hbf](https://www.bahnhof.de/essen-hbf) |
 | Essen-Steele                     | Steeler Platz 1, 45276 Essen                   | 8000099 | [Bahnhof Essen-Steele](https://www.bahnhof.de/essen-steele) |
+| Essen Stadtwald                  | Stadtwaldwende 27, 45134 Essen                 | 8001896 | [Bahnhof Essen Stadtwald](https://www.bahnhof.de/essen-stadtwald) |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
 | Hagen Hauptbahnhof               | Berliner Platz 1, 58089 Hagen                  | 8000142 | [Hagen Hbf](https://www.bahnhof.de/hagen-hbf) |
 | Hohenlimburg                     | Bahnstraße 4, 58199 Hagen                      | 8002953 | [Bahnhof Hohenlimburg](https://www.bahnhof.de/hohenlimburg) |
 | Dahl                             | Am Volmewehr 7, 58091 Hagen                    | 8001357 | [Bahnhof Dahl](https://www.bahnhof.de/dahl) |
