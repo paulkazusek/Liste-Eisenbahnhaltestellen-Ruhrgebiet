@@ -37,22 +37,22 @@
 | Dortmund-Westerfilde             | Westerfilder Str., 44357 Dortmund              | 8001525 | [Bahnhof Dortmund-Westerfilde](https://www.bahnhof.de/dortmund-westerfilde) |
 | Dortmund-Asseln Mitte            | Asselburgstr., 44319 Dortmund                  | 8001526 | [Bahnhof Dortmund-Asseln Mitte](https://www.bahnhof.de/dortmund-asseln-mitte) |
 | Dortmund-Barop                   | Baroper Bahnhofstr., 44225 Dortmund            | 8001527 | [Bahnhof Dortmund-Barop](https://www.bahnhof.de/dortmund-barop) |
-| Dortmund-Bövinghausen            | | 8001528 | [Bahnhof Dortmund-Bövinghausen]() |
-| Dortmund-Brackel                 | | 8001529 | [Bahnhof Dortmund-Brackel]() |
-| Dortmund-Derne                   | | 8001530 | [Bahnhof Dortmund-Derne]() |
-| Dortmund-Wischlingen             | | 8001531 | [Bahnhof Dortmund-Wischlingen]() |
-| Dortmund-Huckarde Nord           | | 8001532 | [Bahnhof Dortmund-Huckarde Nord]() |
-| Dortmund-Kirchderne              | | 8001533 | [Bahnhof Dortmund-Kirchderne]() |
-| Dortmund-Kirchhörde              | | 8001534 | [Bahnhof Dortmund-Kirchhörde]() |
-| Dortmund-Körne                   | | 8001535 | [Bahnhof Dortmund-Körne]() |
-| Dortmund-Kruckel                 | | 8001536 | [Bahnhof Dortmund-Kruckel]() |
-| Dortmund-Kurl                    | | 8001537 | [Bahnhof Dortmund-Kurl]() |
-| Dortmund-Löttringhausen          | | 8001538 | [Bahnhof Dortmund-Löttringhausen]() |
-| Dortmund-Lütgendortmund Nord     | | 8001539 | [Bahnhof Dortmund-Lütgendortmund Nord]() |
-| Dortmund-Germania                | | 8001540 | [Bahnhof Dortmund-Germania]() |
-| Dortmund-Marten                  | | 8001541 | [Bahnhof Dortmund-Marten]() |
-| Dortmund-Marten Süd              | | 8001542 | [Bahnhof Dortmund-Marten Süd]() |
-| Dortmund-Mengede                 | | 8001543 | [Bahnhof Dortmund-Mengede]() |
+| Dortmund-Bövinghausen            | Merklinder Str., 44388 Dortmund                | 8001528 | [Bahnhof Dortmund-Bövinghausen](https://www.bahnhof.de/dortmund-boevinghausen) |
+| Dortmund-Brackel                 | Westfälische Str., 44309 Dortmund              | 8001529 | [Bahnhof Dortmund-Brackel](https://www.bahnhof.de/dortmund-brackel) |
+| Dortmund-Derne                   | Hostedder Str., 44329 Dortmund                 | 8001530 | [Bahnhof Dortmund-Derne](https://www.bahnhof.de/dortmund-derne) |
+| Dortmund-Wischlingen             | Höfkerstr., 44149 Dortmund                     | 8001531 | [Bahnhof Dortmund-Wischlingen](https://www.bahnhof.de/dortmund-wischlingen) |
+| Dortmund-Huckarde Nord           | Altfriedstr., 44369 Dortmund                   | 8001532 | [Bahnhof Dortmund-Huckarde Nord](https://www.bahnhof.de/dortmund-huckarde-nord) |
+| Dortmund-Kirchderne              | Rüschebrink Str., 44143 Dortmund               | 8001533 | [Bahnhof Dortmund-Kirchderne](https://www.bahnhof.de/dortmund-kirchderne) |
+| Dortmund-Kirchhörde              | Hagener Str., 44229 Dortmund                   | 8001534 | [Bahnhof Dortmund-Kirchhörde](https://www.bahnhof.de/dortmund-kirchhoerde) |
+| Dortmund-Körne                   | Kirschbaumweg, 44143 Dortmund                  | 8001535 | [Bahnhof Dortmund-Körne](https://www.bahnhof.de/dortmund-koerne) |
+| Dortmund-Kruckel                 | Kruckeler Str., 44229 Dortmund                 | 8001536 | [Bahnhof Dortmund-Kruckel](https://www.bahnhof.de/dortmund-kruckel) |
+| Dortmund-Kurl                    | Mühlacker-Str., 44319 Dortmund                 | 8001537 | [Bahnhof Dortmund-Kurl](https://www.bahnhof.de/dortmund-kurl) |
+| Dortmund-Löttringhausen          | Hellerstr., 44229 Dortmund                     | 8001538 | [Bahnhof Dortmund-Löttringhausen](https://www.bahnhof.de/dortmund-loettringhausen) |
+| Dortmund-Lütgendortmund Nord     | Westricher Str., 44388 Dortmund                | 8001539 | [Bahnhof Dortmund-Lütgendortmund Nord](https://www.bahnhof.de/dortmund-luetgendortmund-nord) |
+| Dortmund-Germania                | Steinhammerstr., 44379 Dortmund                | 8001540 | [Bahnhof Dortmund-Germania](https://www.bahnhof.de/dortmund-germania) |
+| Dortmund-Marten                  | Hangeney Str., 44379 Dortmund                  | 8001541 | [Bahnhof Dortmund-Marten](https://www.bahnhof.de/dortmund-marten) |
+| Dortmund-Marten Süd              | Schulte Heuthaus-Str., 44379 Dortmund          | 8001542 | [Bahnhof Dortmund-Marten Süd](https://www.bahnhof.de/dortmund-marten-sued) |
+| Dortmund-Mengede                 | Castroper Str., 44359 Dortmund                 | 8001543 | [Bahnhof Dortmund-Mengede](https://www.bahnhof.de/dortmund-mengede) |
 | Dortmund-Rahm                    | | 8001544 | [Bahnhof Dortmund-Rahm]() |
 | Dortmund-Sölde                   | | 8001545 | [Bahnhof Dortmund-Sölde]() |
 | Dortmund-Wickede                 | | 8001546 | [Bahnhof Dortmund-Wickede]() |
