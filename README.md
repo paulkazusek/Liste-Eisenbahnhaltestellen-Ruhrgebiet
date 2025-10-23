@@ -18,6 +18,7 @@
 | Deuten                      | Weseler Straße 326, 46286 Dorsten-Deuten       | 8001432 | [Bahnhof Deuten](https://www.bahnhof.de/deuten) |
 | Hervest-Dorsten             | Am Holzplatz 4, 46284 Dorsten-Hervest          | 8000165 | [Bahnhof Hervest-Dorsten](https://www.bahnhof.de/hervest-dorsten) |
 | Lembeck                     | Lippramsdorfer Str. 163, 46286 Dorsten-Lembeck | 8003630 | [Bahnhof Lembeck](https://www.bahnhof.de/lembeck) |
+| Rhade                       | Gemener Str. 30, 46286 Dorsten-Rhade           | 8005055 | [Bahnhof Rhade](https://www.bahnhof.de/rhade) |
 | Essen Hauptbahnhof          | Am Hauptbahnhof 5, 45127 Essen                 | 8000098 | [Essen Hbf](https://www.bahnhof.de/essen-hbf) |
 | Essen-Steele                | Steeler Platz 1, 45276 Essen                   | 8000099 | [Bahnhof Essen-Steele](https://www.bahnhof.de/essen-steele) |
 | Hagen Hauptbahnhof          | Berliner Platz 1, 58089 Hagen                  | 8000142 | [Hagen Hbf](https://www.bahnhof.de/hagen-hbf) |
