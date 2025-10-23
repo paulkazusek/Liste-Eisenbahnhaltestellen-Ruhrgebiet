@@ -15,6 +15,7 @@
 | Hagen-Wehringhausen | Schlachthofstraße 2, 58089 Hagen          |         | [Bahnhof Hagen-Wehringhausen](https://www.bahnhof.de/hagen-wehringhausen) |
 | Hagen-Westerbauer   | Nordstraße 13, 58135 Hagen                |         | [Bahnhof Hagen-Westerbauer](https://www.bahnhof.de/hagen-westerbauer) |
 | Herdecke            | Bahnhofstraße 45, 58313 Herdecke          |         | [Bahnhof Herdecke](https://www.bahnhof.de/herdecke) |
+| Wittbräucke         | Ostender Weg, 58313 Herdecke              |         | [Bahnhof Wittbräucke](https://www.bahnhof.de/wittbraeucke) |
 | Wetter (Ruhr)       | Bahnhofstr. 19, 58300 Wetter              | 8006386 | |
 
 ## Alpen (Kreis Wesel)
