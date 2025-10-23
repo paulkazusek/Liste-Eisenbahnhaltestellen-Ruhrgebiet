@@ -103,7 +103,7 @@
 | Essen-Borbeck Süd                | Altendorfer Straße 532, 45143 Essen            | 8005031 | [Bahnhof Essen-Borbeck Süd](https://www.bahnhof.de/essen-borbeck-sued) |
 | Essen-Horst                      | Fleherweg 1, 45279 Essen                       | 8006194 | [Bahnhof Essen-Horst](https://www.bahnhof.de/essen-horst) |
 | Essen-Holthausen                 | Langenberger Str. 502, 45277 Essen             | 8006514 | [Bahnhof Essen-Holthausen](https://www.bahnhof.de/essen-holthausen) |
-| | | | [Bahnhof ]() |
+| Kettwig Stausee                  | Werdener Str. 77, 45219 Essen-Kettwig          | 8003245 | [Bahnhof Kettwig Stausee](https://www.bahnhof.de/kettwig-stausee) |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
