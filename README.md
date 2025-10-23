@@ -12,6 +12,7 @@
 | Bottrop-Vonderort           | Vonderbergstr. 221, 46242 Bottrop         | 8001108 | [Bahnhof Bottrop-Vonderort](https://www.bahnhof.de/bottrop-vonderort) |
 | Castrop-Rauxel Hauptbahnhof | Berliner Platz 9, 44579 Castrop-Rauxel    | 8001327 | [Castrop-Rauxel Hbf](https://www.bahnhof.de/castrop-rauxel-hbf) |
 | Castrop-Rauxel Süd          | Münsterplatz 8, 44575 Castrop-Rauxel      | 8001328 | [Bahnhof Castrop-Rauxel Süd](https://www.bahnhof.de/castrop-rauxel-sued) |
+| Castrop-Rauxel-Merklinde    | Hellweg 228, 44579 Castrop-Rauxel         | 8001329 | [Bahnhof Castrop-Rauxel-Merklinde](https://www.bahnhof.de/castrop-rauxel-merklinde) |
 | Essen Hauptbahnhof          | Am Hauptbahnhof 5, 45127 Essen            | 8000098 | [Essen Hbf](https://www.bahnhof.de/essen-hbf) |
 | Essen-Steele                | Steeler Platz 1, 45276 Essen              | 8000099 | [Bahnhof Essen-Steele](https://www.bahnhof.de/essen-steele) |
 | Hagen Hauptbahnhof          | Berliner Platz 1, 58089 Hagen             | 8000142 | [Hagen Hbf](https://www.bahnhof.de/hagen-hbf) |
