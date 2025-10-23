@@ -91,19 +91,18 @@
 | Essen-Dellwig Ost                | Blitzstraße 21, 45357 Essen                    | 8001904 | [Bahnhof Essen-Dellwig Ost](https://www.bahnhof.de/essen-dellwig-ost) |
 | Essen-Eiberg                     | Sachsenring 1, 45279 Essen                     | 8001905 | [Bahnhof Essen-Eiberg](https://www.bahnhof.de/essen-eiberg) |
 | Essen-Frohnhausen                | Onckenstraße 61, 45144 Essen                   | 8001906 | [Bahnhof Essen-Frohnhausen](https://www.bahnhof.de/essen-frohnhausen) |
-| Essen-Gerschede                  | | 8001907 | [Bahnhof Essen-Gerschede]() |
-| Essen-Hügel                      | | 8001908 | [Bahnhof Essen-Hügel]() |
-| Essen-Zollverein Nord            | | 8001909 | [Bahnhof Essen-Zollverein Nord]() |
-| Essen-Kray Nord                  | | 8001910 | [Bahnhof Essen-Kray Nord]() |
-| Essen-Kray Süd                   | | 8001911 | [Bahnhof Essen-Kray Süd]() |
-| Essen-Kupferdreh                 | | 8001912 | [Bahnhof Essen-Kupferdreh]() |
-| Essen-Steele Ost                 | | 8001913 | [Bahnhof Essen-Steele Ost]() |
-| Essen-Überruhr                   | | 8001914 | [Bahnhof Essen-Überruhr]() |
-| Essen-Werden                     | | 8001915 | [Bahnhof Essen-Werden]() |
-| Essen-Borbeck Süd                | | 8005031 | [Bahnhof Essen-Borbeck Süd]() |
-| Essen-Horst                      | | 8006194 | [Bahnhof Essen-Horst]() |
-| Essen-Holthausen                 | | 8006514 | [Bahnhof Essen-Holthausen]() |
-| Essene-Lombeek                   | | 8800288 | [Bahnhof Essene-Lombeek]() |
+| Essen-Gerschede                  | Münstermannstraße 2, 45357 Essen               | 8001907 | [Bahnhof Essen-Gerschede](https://www.bahnhof.de/essen-gerschede) |
+| Essen-Hügel                      | Freiherr-von-Stein-Str. 211, 45133 Essen       | 8001908 | [Bahnhof Essen-Hügel](https://www.bahnhof.de/essen-huegel) |
+| Essen-Zollverein Nord            | Schonnebeckhöfe 216, 45327 Essen               | 8001909 | [Bahnhof Essen-Zollverein Nord](https://www.bahnhof.de/essen-zollverein-nord) |
+| Essen-Kray Nord                  | Krayerstr. 263, 45307 Essen                    | 8001910 | [Bahnhof Essen-Kray Nord](https://www.bahnhof.de/essen-kray-nord) |
+| Essen-Kray Süd                   | Am Bocklerbaum 8, 45307 Essen                  | 8001911 | [Bahnhof Essen-Kray Süd](https://www.bahnhof.de/essen-kray-sued) |
+| Essen-Kupferdreh                 | Hofstraße 1, 45257 Essen                       | 8001912 | [Bahnhof Essen-Kupferdreh](https://www.bahnhof.de/essen-kupferdreh) |
+| Essen-Steele Ost                 | Bochumer Landstr. 122a, 45276 Essen            | 8001913 | [Bahnhof Essen-Steele Ost](https://www.bahnhof.de/essen-steele-ost) |
+| Essen-Überruhr                   | Langenbergerstr. 511, 45277 Essen              | 8001914 | [Bahnhof Essen-Überruhr](https://www.bahnhof.de/essen-ueberruhr) |
+| Essen-Werden                     | Im Löwental 11, 45239 Essen                    | 8001915 | [Bahnhof Essen-Werden](https://www.bahnhof.de/essen-werden) |
+| Essen-Borbeck Süd                | Altendorfer Straße 532, 45143 Essen            | 8005031 | [Bahnhof Essen-Borbeck Süd](https://www.bahnhof.de/essen-borbeck-sued) |
+| Essen-Horst                      | Fleherweg 1, 45279 Essen                       | 8006194 | [Bahnhof Essen-Horst](https://www.bahnhof.de/essen-horst) |
+| Essen-Holthausen                 | Langenberger Str. 502, 45277 Essen             | 8006514 | [Bahnhof Essen-Holthausen](https://www.bahnhof.de/essen-holthausen) |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
