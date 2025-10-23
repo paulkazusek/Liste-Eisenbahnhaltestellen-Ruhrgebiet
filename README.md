@@ -7,6 +7,7 @@
 | Bönen                | Bahnhofstraße, 59199 Bönen                | 8001061 | [Bahnhof Bönen](https://www.bahnhof.de/boenen) |
 | Bönen-Nordbögge      | Hammer Str., 59199 Bönen (Nordbögge)      | 8004448 | [Banhhof Bönen-Nordbögge](https://www.bahnhof.de/boenen-nordboegge) |
 | Bottrop Hauptbahnhof | Am Hauptbahnhof 1, 46244 Bottrop          | 8000047 | [Bottrop Hbf](https://www.bahnhof.de/bottrop-hbf) |
+| Bottrop-Boy          | Horster Str. 378, 46240 Bottrop           | 8001107 | [Bahnhof Bottrop-Boy](https://www.bahnhof.de/bottrop-boy) |
 | Essen Hauptbahnhof   | Am Hauptbahnhof 5, 45127 Essen            | 8000098 | [Essen Hbf](https://www.bahnhof.de/essen-hbf) |
 | Essen-Steele         | Steeler Platz 1, 45276 Essen              | 8000099 | [Bahnhof Essen-Steele](https://www.bahnhof.de/essen-steele) |
 | Hagen Hauptbahnhof   | Berliner Platz 1, 58089 Hagen             | 8000142 | [Hagen Hbf](https://www.bahnhof.de/hagen-hbf) |
