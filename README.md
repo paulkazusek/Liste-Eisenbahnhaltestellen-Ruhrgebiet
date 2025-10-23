@@ -1,5 +1,11 @@
 # Eisenbahnhaltestellen im Ruhrgebiet
 
+## Übersicht
+
+| Name der Station | Adresse  | IBNR | Koordinaten (Lat, Lon) |
+|------------------|----------|------|------------------------|
+|                  |          |      |                        |
+
 ## Alpen (Kreis Wesel)
 
 ## Bergkamen (Kreis Unna)
@@ -103,3 +109,4 @@
 ## Wetter (Ruhr) (Ennepe-Ruhr-Kreis)
 
 ## Witten (Ennepe-Ruhr-Kreis)
+
