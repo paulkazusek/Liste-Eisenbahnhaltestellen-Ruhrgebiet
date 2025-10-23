@@ -1,7 +1,8 @@
 # Eisenbahnhaltestellen im Ruhrgebiet
 
-| Name der Station    | Adresse                                   | IBNR    |
-|---------------------|-------------------------------------------|---------|
+| Name der Station    | Adresse                                   | IBNR    | bahnhof.de |
+|---------------------|-------------------------------------------|---------|------------|
+| Alpen               | Bahnhofstr. 1, 46519 Alpen                |         | [Bahnhof Alpen](https://www.bahnhof.de/alpen)
 | Bochum Hauptbahnhof | Kurt-Schumacher-Platz 13-15, 44787 Bochum | 8000041 |
 | Essen Hauptbahnhof  | Am Hauptbahnhof 5, 45127 Essen            | 8000098 |
 | Essen-Steele        | Steeler Platz 1, 45276 Essen              | 8000099 |
