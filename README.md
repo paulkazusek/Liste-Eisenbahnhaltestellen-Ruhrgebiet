@@ -77,6 +77,9 @@
 | Duisburg-Ruhrort                 | riedrich-Ebert-Str. 8, 47119 Duisburg          | 8001611 | [Bahnhof Duisburg-Ruhrort](https://www.bahnhof.de/duisburg-ruhrort) |
 | Duisburg-Wedau                   | Wedauer Brücke 1, 47279 Duisburg               | 8001612 | [Bahnhof Duisburg-Wedau](https://www.bahnhof.de/duisburg-wedau) |
 | Duisburg Entenfang               | Bissingheimer Str., 47279 Duisburg             | 8005272 | [Bahnhof Duisburg Entenfang](https://www.bahnhof.de/duisburg-entenfang) |
+| Ennepetal (Gevelsberg)           | Bahnhofstraße 19, 58256 Ennepetal              | 8001795 | [Bahnhof Ennepetal (Gevelsberg)](https://www.bahnhof.de/ennepetal-gevelsberg) |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | Essen Hauptbahnhof               | Am Hauptbahnhof 5, 45127 Essen                 | 8000098 | [Essen Hbf](https://www.bahnhof.de/essen-hbf) |
 | Essen-Steele                     | Steeler Platz 1, 45276 Essen                   | 8000099 | [Bahnhof Essen-Steele](https://www.bahnhof.de/essen-steele) |
