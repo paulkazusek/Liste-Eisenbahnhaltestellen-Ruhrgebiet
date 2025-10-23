@@ -28,10 +28,10 @@
 | Dortmund-Lütgendortmund          | Heinrich-Sondermann-Platz, 44388 Dortmund      | 8001516 | [Bahnhof Dortmund-Lütgendortmund](https://www.bahnhof.de/dortmund-luetgendortmund) |
 | Dortmund Knappschaftskrankenhaus | Hörder Str., 44309 Dortmund                    | 8001517 | [Bahnhof Dortmund Knappschaftskrankenhaus](https://www.bahnhof.de/dortmund-knappschafts-krankenhaus) |
 | Dortmund Möllerbrücke            | Hollestr., 44137 Dortmund                      | 8001518 | [Bahnhof Dortmund Möllerbrücke](https://www.bahnhof.de/dortmund-moellerbruecke) |
-| Dortmund-Nette/Oestrich          | Haberlandstr., 44359 Dortmund                  | 8001519 | [Bahnhof Dortmund-Nette/Oestrich]() |
-| Dortmund Stadthaus               | | 8001520 | [Bahnhof ]() |
-| Dortmund Tierpark                | | 8001521 | [Bahnhof ]() |
-| Dortmund Signal Iduna Park       | | 8001523 | [Bahnhof ]() |
+| Dortmund-Nette/Oestrich          | Haberlandstr., 44359 Dortmund                  | 8001519 | [Bahnhof Dortmund-Nette/Oestrich](https://www.bahnhof.de/dortmund-nette-oestrich) |
+| Dortmund Stadthaus               | Ruhrallee/Sonnenstr., 44149 Dortmund           | 8001520 | [Bahnhof Dortmund Stadthaus](https://www.bahnhof.de/dortmund-stadthaus) |
+| Dortmund Tierpark                | Am Bahnhof Tierpark, 44225 Dortmund            | 8001521 | [Bahnhof Dortmund Tierpark](https://www.bahnhof.de/dortmund-tierpark) |
+| Dortmund Signal Iduna Park       | Bolmker Weg, 44139 Dortmund                    | 8001523 | [Bahnhof Dortmund Signal Iduna Park](https://www.bahnhof.de/dortmund-signal-iduna-park) |
 | Dortmund-Aplerbeck               | | 8001523 | [Bahnhof ]() |
 | Dortmund-Aplerbeck Süd           | | 8001524 | [Bahnhof ]() |
 | Dortmund-Westerfilde             | | 8001525 | [Bahnhof ]() |
