@@ -64,6 +64,20 @@
 | Dortmund-Kley                    | Kleyer-Weg, 44149 Dortmund                     | 8004269 | [Bahnhof Dortmund-Kley](https://www.bahnhof.de/dortmund-kley) |
 | Dortmund-Oespel                  | Auf der Linnert, 44149 Dortmund                | 8004288 | [Bahnhof Dortmund-Oespel](https://www.bahnhof.de/dortmund-oespel) |
 | Dortmund Universität             | Universitätsgelände, 44227 Dortmund            | 8004419 | [Bahnhof Dortmund Universität](https://www.bahnhof.de/dortmund-universitaet) |
+| Duisburg Hauptbahnhof            | | 8000086 | [Duisburg Hbf]() |
+| Duisburg-Meiderich Süd           | | 8000367 | [Bahnhof Duisburg-Meiderich Süd]() |
+| Duisburg-Schlenk                 | | 8001596 | [Bahnhof Duisburg-Schlenk]() |
+| Duisburg-Bissingheim             | | 8001599 | [Bahnhof Duisburg-Bissingheim]() |
+| Duisburg-Buchholz                | | 8001600 | [Bahnhof Duisburg-Buchholz]() |
+| Duisburg-Großenbaum              | | 8001602 | [Bahnhof Duisburg-Großenbaum]() |
+| Duisburg-Hochfeld Süd            | | 8001605 | [Bahnhof Duisburg-Hochfeld Süd]() |
+| Duisburg-Meiderich Ost           | | 8001607 | [Bahnhof Duisburg-Meiderich Ost]() |
+| Duisburg-Obermeiderich           | | 8001608 | [Bahnhof Duisburg-Obermeiderich]() |
+| Duisburg-Rahm                    | | 8001609 | [Bahnhof Duisburg-Rahm]() |
+| Duisburg-Ruhrort                 | | 8001611 | [Bahnhof Duisburg-Ruhrort]() |
+| Duisburg-Wedau                   | | 8001612 | [Bahnhof Duisburg-Wedau]() |
+| Duisburg Entenfang               | | 8005272 | [Bahnhof Duisburg Entenfang]() |
+| | | | [Bahnhof ]() |
 | Essen Hauptbahnhof               | Am Hauptbahnhof 5, 45127 Essen                 | 8000098 | [Essen Hbf](https://www.bahnhof.de/essen-hbf) |
 | Essen-Steele                     | Steeler Platz 1, 45276 Essen                   | 8000099 | [Bahnhof Essen-Steele](https://www.bahnhof.de/essen-steele) |
 | Hagen Hauptbahnhof               | Berliner Platz 1, 58089 Hagen                  | 8000142 | [Hagen Hbf](https://www.bahnhof.de/hagen-hbf) |
