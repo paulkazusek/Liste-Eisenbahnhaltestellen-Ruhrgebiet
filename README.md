@@ -9,6 +9,7 @@
 | Bottrop Hauptbahnhof | Am Hauptbahnhof 1, 46244 Bottrop          | 8000047 | [Bottrop Hbf](https://www.bahnhof.de/bottrop-hbf) |
 | Feldhausen           | Schloßgasse 35, 46244 Bottrop             | 8001972 | [Bahnhof Feldhausen](https://www.bahnhof.de/feldhausen) |
 | Bottrop-Boy          | Horster Str. 378, 46240 Bottrop           | 8001107 | [Bahnhof Bottrop-Boy](https://www.bahnhof.de/bottrop-boy) |
+| Bottrop-Vonderort    | Vonderbergstr. 221, 46242 Bottrop         | 8001108 | [Bahnhof Bottrop-Vonderort](https://www.bahnhof.de/bottrop-vonderort) |
 | Essen Hauptbahnhof   | Am Hauptbahnhof 5, 45127 Essen            | 8000098 | [Essen Hbf](https://www.bahnhof.de/essen-hbf) |
 | Essen-Steele         | Steeler Platz 1, 45276 Essen              | 8000099 | [Bahnhof Essen-Steele](https://www.bahnhof.de/essen-steele) |
 | Hagen Hauptbahnhof   | Berliner Platz 1, 58089 Hagen             | 8000142 | [Hagen Hbf](https://www.bahnhof.de/hagen-hbf) |
