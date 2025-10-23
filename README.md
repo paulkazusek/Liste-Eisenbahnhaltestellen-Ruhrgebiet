@@ -117,6 +117,10 @@
 | Gevelsberg Hauptbahnhof          | Jahnstrasse 12, 58285 Gevelsberg               | 8002267 | [Bahnhof Gevelsberg Hbf](https://www.bahnhof.de/gevelsberg-hbf) |
 | Gevelsberg West                  | Am Westbahnhof 1, 58285 Gevelsberg             | 8002268 | [Bahnhof Gevelsberg West](https://www.bahnhof.de/gevelsberg-west) |
 | Gevelsberg-Kipp                  | Heidestr. 21, 58285 Gevelsberg-Kipp            | 8002509 | [Bahnhof Gevelsberg-Kipp](https://www.bahnhof.de/gevelsberg-kipp) |
+| Gladbeck West                    | Hansemannstr. 10, 45964 Gladbeck               | 8000125 | [Bahnhof Gladbeck West](https://www.bahnhof.de/gladbeck-west) |
+| Gladbeck Ost                     | Bahnhofstraße 20, 45964 Gladbeck               | 8002283 | [Bahnhof Gladbeck Ost](https://www.bahnhof.de/gladbeck-ost) |
+| Gladbeck-Zweckel                 | Beethovenstraße 31, 45966 Gladbeck             | 8002284 | [Bahnhof Gladbeck-Zweckel](https://www.bahnhof.de/gladbeck-zweckel) |
+| | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
