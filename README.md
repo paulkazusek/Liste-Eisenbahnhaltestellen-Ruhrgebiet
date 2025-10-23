@@ -2,9 +2,10 @@
 
 ## Übersicht
 
-| Name der Station | Adresse  | IBNR | Koordinaten (Lat, Lon) |
-|------------------|----------|------|------------------------|
-|                  |          |      |                        |
+| Name der Station   | Adresse                           | IBNR    |
+|--------------------|-----------------------------------|---------|
+| Hagen Hauptbahnhof | Berliner Platz 1, 58089 Hagen     | 8000142 |
+| Hagen-Vorhalle     | Brüninghausstraße 13, 58089 Hagen | 8000977 |
 
 ## Alpen (Kreis Wesel)
 
