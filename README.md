@@ -129,9 +129,9 @@
 | Hagen-Wehringhausen              | Schlachthofstraße 2, 58089 Hagen               | 8006712 | [Bahnhof Hagen-Wehringhausen](https://www.bahnhof.de/hagen-wehringhausen) |
 | Hagen-Westerbauer                | Nordstraße 13, 58135 Hagen                     | 8004440 | [Bahnhof Hagen-Westerbauer](https://www.bahnhof.de/hagen-westerbauer) |
 | Haltern am See                   | Roost-Warendin-Platz 1, 45721 Haltern am See   | 8000145 | [Bahnhof Haltern am See](https://www.bahnhof.de/haltern-am-see) |
-| Hamm(Westf) Hauptbahnhof         | Willy-Brandt-Platz 1b, 59065 Hamm              | 8000149 | [Hamm (Westf) Hbf](https://www.bahnhof.de/hamm-westf-hbf) |
-| | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
+| Hamm (Westf) Hauptbahnhof        | Willy-Brandt-Platz 1b, 59065 Hamm              | 8000149 | [Hamm (Westf) Hbf](https://www.bahnhof.de/hamm-westf-hbf) |
+| Hamminkeln                       | Güterstr. 6, 46499 Hamminkeln                  | 8002571 | [Bahnhof Hamminkeln](https://www.bahnhof.de/hamminkeln) |
+| Hamminkeln-Dingden               | Am Bahnhof 5, 46499 Hamminkeln                 | 8001465 | [Bahnhof Hamminkeln-Dingden](https://www.bahnhof.de/hamminkeln-dingden) |
 | | | | [Bahnhof ]() |
 | Herdecke                         | Bahnhofstraße 45, 58313 Herdecke               | 8002769 | [Bahnhof Herdecke](https://www.bahnhof.de/herdecke) |
 | Wittbräucke                      | Ostender Weg, 58313 Herdecke                   | 8006505 | [Bahnhof Wittbräucke](https://www.bahnhof.de/wittbraeucke) |
