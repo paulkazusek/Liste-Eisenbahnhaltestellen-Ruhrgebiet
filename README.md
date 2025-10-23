@@ -107,7 +107,12 @@
 | Kettwig Stausee                  | Werdener Str. 77, 45219 Essen-Kettwig          | 8003245 | [Bahnhof Kettwig Stausee](https://www.bahnhof.de/kettwig-stausee) |
 | Fröndenberg                      | Bahnhofstr. 15, 58730 Fröndenberg (Ruhr)       | 8000113 | [Bahnhof Fröndenberg](https://www.bahnhof.de/froendenberg) |
 | Fröndenberg-Frömern              | Brückenstr., 58730 Fröndenberg (Ruhr)          | 8002130 | [Bahnhof Fröndenberg-Frömern](https://www.bahnhof.de/froendenberg-froemern) |
-| | | | [Bahnhof ]() |
+| Gelsenkirchen Hauptbahnhof       | Bahnhofsvorplatz 10, 45879 Gelsenkirchen       | 8000118 | [Bahnhof Gelsenkirchen Hbf](https://www.bahnhof.de/gelsenkirchen-hbf) |
+| Gelsenkirchen Zoo                | Münsterstr. 1, 45889 Gelsenkirchen             | 8002223 | [Bahnhof Gelsenkirchen Zoo](https://www.bahnhof.de/gelsenkirchen-zoo) |
+| Gelsenkirchen-Buer Nord          | Königswiese 1, 45894 Gelsenkirchen             | 8002224 | [Bahnhof Gelsenkirchen-Buer Nord](https://www.bahnhof.de/gelsenkirchen-buer-nord) |
+| Gelsenkirchen-Buer Süd           | Horsterstr. 396, 45899 Gelsenkirchen           | 8002225 | [Bahnhof Gelsenkirchen-Buer Süd](https://www.bahnhof.de/gelsenkirchen-buer-sued) |
+| Gelsenkirchen-Hassel             | Eppmannsweg 98, 45896 Gelsenkirchen            | 8002226 | [Bahnhof Gelsenkirchen-Hassel](https://www.bahnhof.de/gelsenkirchen-hassel) |
+| Gelsenkirchen-Rotthausen         | Karl-Mayer-Straße 58, 45884 Gelsenkirchen      | 8002227 | [Bahnhof Gelsenkirchen-Rotthausen](https://www.bahnhof.de/gelsenkirchen-rotthausen) |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
