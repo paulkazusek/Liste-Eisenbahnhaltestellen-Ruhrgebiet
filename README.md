@@ -133,12 +133,12 @@
 | Hamminkeln                       | Güterstr. 6, 46499 Hamminkeln                  | 8002571 | [Bahnhof Hamminkeln](https://www.bahnhof.de/hamminkeln) |
 | Hamminkeln-Dingden               | Am Bahnhof 5, 46499 Hamminkeln                 | 8001465 | [Bahnhof Hamminkeln-Dingden](https://www.bahnhof.de/hamminkeln-dingden) |
 | Mehrhoog                         | Bahnhofstr. 66, 46499 Hamminkeln               | 8003943 | [Bahnhof Mehrhoog](https://www.bahnhof.de/mehrhoog) |
-| | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
+| Hattingen (Ruhr)                 | Bahnhofstr. 79, 45525 Hattingen                | 8002639 | [Bahnhof Hattingen (Ruhr)](https://www.bahnhof.de/hattingen-ruhr) |
+| Hattingen (Ruhr) Mitte           | Martin-Luther-Straße 18, 45525 Hattingen Mitte | 8002640 | [Bahnhof Hattingen (Ruhr) Mitte]() |
 | Herdecke                         | Bahnhofstraße 45, 58313 Herdecke               | 8002769 | [Bahnhof Herdecke](https://www.bahnhof.de/herdecke) |
 | Wittbräucke                      | Ostender Weg, 58313 Herdecke                   | 8006505 | [Bahnhof Wittbräucke](https://www.bahnhof.de/wittbraeucke) |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
 | Wetter (Ruhr)                    | Bahnhofstr. 19, 58300 Wetter                   | 8006386 | [Bahnhof Wetter (Ruhr)](https://www.bahnhof.de/wetter-ruhr) |
 
 ## Alpen (Kreis Wesel)
