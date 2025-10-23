@@ -105,7 +105,7 @@
 | Essen-Holthausen                 | Langenberger Str. 502, 45277 Essen             | 8006514 | [Bahnhof Essen-Holthausen](https://www.bahnhof.de/essen-holthausen) |
 | Kettwig                          | Ruhrtalstr. 345, 45219 Essen                   | 8000198 | [Bahnhof Kettwig](https://www.bahnhof.de/kettwig) |
 | Kettwig Stausee                  | Werdener Str. 77, 45219 Essen-Kettwig          | 8003245 | [Bahnhof Kettwig Stausee](https://www.bahnhof.de/kettwig-stausee) |
-| | | | [Bahnhof ]() |
+| Fröndenberg                      | Bahnhofstr. 15, 58730 Fröndenberg (Ruhr)       | 8000113 | [Bahnhof Fröndenberg](https://www.bahnhof.de/froendenberg) |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
