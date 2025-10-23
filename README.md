@@ -140,7 +140,7 @@
 | Herne                            | Konrad-Adenauer-Platz 1, 44623 Herne           | 8000164 | [Bahnhof Herne](https://www.bahnhof.de/herne) |
 | Herne-Börnig                     | Berkelstraße 34, 44628 Herne                   | 8002779 | [Bahnhof Herne-Börnig](https://www.bahnhof.de/herne-boernig) |
 | Wanne-Eickel Hauptbahnhof        | Heinz-Rühmann-Platz 1, 44649 Herne             | 8000192 | [Bahnhof Wanne-Eickel Hbf](https://www.bahnhof.de/wanne-eickel-hbf) |
-| | | | [Bahnhof ]() |
+| Herten (Westf)                   | Gartenstr. 35, 45699 Herten                    | 8002795 | [Bahnhof Herten (Westf)](https://www.bahnhof.de/herten-westf) |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
