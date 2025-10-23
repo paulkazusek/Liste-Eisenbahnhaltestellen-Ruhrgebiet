@@ -81,14 +81,14 @@
 | Essen Hauptbahnhof               | Am Hauptbahnhof 5, 45127 Essen                 | 8000098 | [Essen Hbf](https://www.bahnhof.de/essen-hbf) |
 | Essen-Steele                     | Steeler Platz 1, 45276 Essen                   | 8000099 | [Bahnhof Essen-Steele](https://www.bahnhof.de/essen-steele) |
 | Essen Stadtwald                  | Stadtwaldwende 27, 45134 Essen                 | 8001896 | [Bahnhof Essen Stadtwald](https://www.bahnhof.de/essen-stadtwald) |
-| | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
+| Essen Süd                        | Rellinghauser Str. 175, 45136 Essen            | 8001897 | [Bahnhof Essen Süd](https://www.bahnhof.de/essen-sued) |
+| Essen West                       | Am Westbahnhof 1, 45144 Essen                  | 8001898 | [Bahnhof Essen West](https://www.bahnhof.de/essen-west) |
+| Essen (Oldb)                     | Bahnhofsstraße, 49632 Essen                    | 8001899 | [Bahnhof Essen (Oldb)](https://www.bahnhof.de/essen-oldb) |
+| Essen-Altenessen                 | | 8001900 | [Bahnhof Essen-Altenessen]() |
+| Essen-Bergeborbeck               | | 8001901 | [Bahnhof Essen-Bergeborbeck]() |
+| Essen-Borbeck                    | | 8001902 | [Bahnhof Essen-Borbeck]() |
+| Essen-Dellwig                    | | 8001903 | [Bahnhof Essen-Dellwig]() |
+| Essen-Dellwig Ost                | | 8001904 | [Bahnhof Essen-Dellwig Ost]() |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
