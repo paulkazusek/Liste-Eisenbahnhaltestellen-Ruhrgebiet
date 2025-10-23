@@ -5,6 +5,7 @@
 | Alpen               | Bahnhofstr. 1, 46519 Alpen                | 8000500 | [Bahnhof Alpen](https://www.bahnhof.de/alpen)
 | Bochum Hauptbahnhof | Kurt-Schumacher-Platz 13-15, 44787 Bochum | 8000041 | [Bochum Hbf](https://www.bahnhof.de/bochum-hbf) |
 | Bönen               | Bahnhofstraße, 59199 Bönen                | 8001061 | [Bahnhof Bönen](https://www.bahnhof.de/boenen) |
+| Bönen-Nordbögge      | Hammer Str., 59199 Bönen (Nordbögge)     | 8004448 | [Banhhof Bönen-Nordbögge](https://www.bahnhof.de/boenen-nordboegge) |
 | Essen Hauptbahnhof  | Am Hauptbahnhof 5, 45127 Essen            | 8000098 | [Essen Hbf](https://www.bahnhof.de/essen-hbf) |
 | Essen-Steele        | Steeler Platz 1, 45276 Essen              | 8000099 | [Bahnhof Essen-Steele](https://www.bahnhof.de/essen-steele) |
 | Hagen Hauptbahnhof  | Berliner Platz 1, 58089 Hagen             | 8000142 | [Hagen Hbf](https://www.bahnhof.de/hagen-hbf) |
