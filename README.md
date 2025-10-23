@@ -20,6 +20,7 @@
 | Lembeck                     | Lippramsdorfer Str. 163, 46286 Dorsten-Lembeck | 8003630 | [Bahnhof Lembeck](https://www.bahnhof.de/lembeck) |
 | Rhade                       | Gemener Str. 30, 46286 Dorsten-Rhade           | 8005055 | [Bahnhof Rhade](https://www.bahnhof.de/rhade) |
 | Wulfen (Westf)              | Kleiner Ring 40, 46286 Dorsten-Wulfen          | 8006590 | [Bahnhof Wulfen (Westf)](https://www.bahnhof.de/wulfen-westf) |
+| Dortmund Hauptbahnhof       | Königswall 15, 44137 Dortmund                  | 8000080 | [Dortmund Hbf](https://www.bahnhof.de/dortmund-hbf) |
 | Essen Hauptbahnhof          | Am Hauptbahnhof 5, 45127 Essen                 | 8000098 | [Essen Hbf](https://www.bahnhof.de/essen-hbf) |
 | Essen-Steele                | Steeler Platz 1, 45276 Essen                   | 8000099 | [Bahnhof Essen-Steele](https://www.bahnhof.de/essen-steele) |
 | Hagen Hauptbahnhof          | Berliner Platz 1, 58089 Hagen                  | 8000142 | [Hagen Hbf](https://www.bahnhof.de/hagen-hbf) |
