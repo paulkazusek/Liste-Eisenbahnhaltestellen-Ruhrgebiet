@@ -64,19 +64,19 @@
 | Dortmund-Kley                    | Kleyer-Weg, 44149 Dortmund                     | 8004269 | [Bahnhof Dortmund-Kley](https://www.bahnhof.de/dortmund-kley) |
 | Dortmund-Oespel                  | Auf der Linnert, 44149 Dortmund                | 8004288 | [Bahnhof Dortmund-Oespel](https://www.bahnhof.de/dortmund-oespel) |
 | Dortmund Universität             | Universitätsgelände, 44227 Dortmund            | 8004419 | [Bahnhof Dortmund Universität](https://www.bahnhof.de/dortmund-universitaet) |
-| Duisburg Hauptbahnhof            | | 8000086 | [Duisburg Hbf]() |
-| Duisburg-Meiderich Süd           | | 8000367 | [Bahnhof Duisburg-Meiderich Süd]() |
-| Duisburg-Schlenk                 | | 8001596 | [Bahnhof Duisburg-Schlenk]() |
-| Duisburg-Bissingheim             | | 8001599 | [Bahnhof Duisburg-Bissingheim]() |
-| Duisburg-Buchholz                | | 8001600 | [Bahnhof Duisburg-Buchholz]() |
-| Duisburg-Großenbaum              | | 8001602 | [Bahnhof Duisburg-Großenbaum]() |
-| Duisburg-Hochfeld Süd            | | 8001605 | [Bahnhof Duisburg-Hochfeld Süd]() |
-| Duisburg-Meiderich Ost           | | 8001607 | [Bahnhof Duisburg-Meiderich Ost]() |
-| Duisburg-Obermeiderich           | | 8001608 | [Bahnhof Duisburg-Obermeiderich]() |
-| Duisburg-Rahm                    | | 8001609 | [Bahnhof Duisburg-Rahm]() |
-| Duisburg-Ruhrort                 | | 8001611 | [Bahnhof Duisburg-Ruhrort]() |
-| Duisburg-Wedau                   | | 8001612 | [Bahnhof Duisburg-Wedau]() |
-| Duisburg Entenfang               | | 8005272 | [Bahnhof Duisburg Entenfang]() |
+| Duisburg Hauptbahnhof            | Portsmouthplatz 1, 47051 Duisburg              | 8000086 | [Duisburg Hbf](https://www.bahnhof.de/duisburg-hbf) |
+| Duisburg-Meiderich Süd           | Singstr. 3, 47137 Duisburg                     | 8000367 | [Bahnhof Duisburg-Meiderich Süd](https://www.bahnhof.de/duisburg-meiderich-sued) |
+| Duisburg-Schlenk                 | Im Schlenk 89, 47055 Duisburg                  | 8001596 | [Bahnhof Duisburg-Schlenk](https://www.bahnhof.de/duisburg-schlenk) |
+| Duisburg-Bissingheim             | Bissingheimer Str. 250, 47279 Duisburg         | 8001599 | [Bahnhof Duisburg-Bissingheim](https://www.bahnhof.de/duisburg-bissingheim) |
+| Duisburg-Buchholz                | Sittardsberger Allee 202, 47249 Duisburg       | 8001600 | [Bahnhof Duisburg-Buchholz](https://www.bahnhof.de/duisburg-buchholz) |
+| Duisburg-Großenbaum              | Großenbaumer Allee 1, 47269 Duisburg           | 8001602 | [Bahnhof Duisburg-Großenbaum](https://www.bahnhof.de/duisburg-grossenbaum) |
+| Duisburg-Hochfeld Süd            | Wanheimerstr. 221, 47055 Duisburg              | 8001605 | [Bahnhof Duisburg-Hochfeld Süd](https://www.bahnhof.de/duisburg-hochfeld-sued) |
+| Duisburg-Meiderich Ost           | Bügelstr. 2, 47138 Duisburg                    | 8001607 | [Bahnhof Duisburg-Meiderich Ost](https://www.bahnhof.de/duisburg-meiderich-ost) |
+| Duisburg-Obermeiderich           | Obermeidericherstr. 2, 47138 Duisburg          | 8001608 | [Bahnhof Duisburg-Obermeiderich](https://www.bahnhof.de/duisburg-obermeiderich) |
+| Duisburg-Rahm                    | Am Rahmer Bach 86, 47269 Duisburg              | 8001609 | [Bahnhof Duisburg-Rahm](https://www.bahnhof.de/duisburg-rahm) |
+| Duisburg-Ruhrort                 | riedrich-Ebert-Str. 8, 47119 Duisburg          | 8001611 | [Bahnhof Duisburg-Ruhrort](https://www.bahnhof.de/duisburg-ruhrort) |
+| Duisburg-Wedau                   | Wedauer Brücke 1, 47279 Duisburg               | 8001612 | [Bahnhof Duisburg-Wedau](https://www.bahnhof.de/duisburg-wedau) |
+| Duisburg Entenfang               | Bissingheimer Str., 47279 Duisburg             | 8005272 | [Bahnhof Duisburg Entenfang](https://www.bahnhof.de/duisburg-entenfang) |
 | | | | [Bahnhof ]() |
 | Essen Hauptbahnhof               | Am Hauptbahnhof 5, 45127 Essen                 | 8000098 | [Essen Hbf](https://www.bahnhof.de/essen-hbf) |
 | Essen-Steele                     | Steeler Platz 1, 45276 Essen                   | 8000099 | [Bahnhof Essen-Steele](https://www.bahnhof.de/essen-steele) |
