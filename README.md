@@ -7,8 +7,9 @@
 | Essen Hauptbahnhof  | Am Hauptbahnhof 5, 45127 Essen            | 8000098 | |
 | Essen-Steele        | Steeler Platz 1, 45276 Essen              | 8000099 | |
 | Hagen Hauptbahnhof  | Berliner Platz 1, 58089 Hagen             | 8000142 | [Hagen Hbf](https://www.bahnhof.de/hagen-hbf) |
+| Hagen-Heubing       | Am Hasper Bahnof, 58135 Hagen             |         | [Bahnhof Hagen-Heubing](https://www.bahnhof.de/hagen-heubing) |
 | Hagen-Vorhalle      | Brüninghausstraße 13, 58089 Hagen         | 8000977 | [Bahnhof Hagen-Vorhalle](https://www.bahnhof.de/hagen-vorhalle) |
-| Hagen-Wehringhausen | | | |
+| Hagen-Wehringhausen | Schlachthofstraße 2, 58089 Hagen          |         | [Bahnhof Hagen-Wehringhausen](https://www.bahnhof.de/hagen-wehringhausen) |
 | Wetter (Ruhr)       | Bahnhofstr. 19, 58300 Wetter              | 8006386 | |
 
 ## Alpen (Kreis Wesel)
