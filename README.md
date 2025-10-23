@@ -1,11 +1,10 @@
 # Eisenbahnhaltestellen im Ruhrgebiet
 
-## Übersicht
-
 | Name der Station   | Adresse                           | IBNR    |
 |--------------------|-----------------------------------|---------|
 | Hagen Hauptbahnhof | Berliner Platz 1, 58089 Hagen     | 8000142 |
 | Hagen-Vorhalle     | Brüninghausstraße 13, 58089 Hagen | 8000977 |
+| Wetter (Ruhr)      | Bahnhofstr. 19, 58300 Wetter      | 8006386 |
 
 ## Alpen (Kreis Wesel)
 
