@@ -138,8 +138,8 @@
 | Herdecke                         | Bahnhofstraße 45, 58313 Herdecke               | 8002769 | [Bahnhof Herdecke](https://www.bahnhof.de/herdecke) |
 | Wittbräucke                      | Ostender Weg, 58313 Herdecke                   | 8006505 | [Bahnhof Wittbräucke](https://www.bahnhof.de/wittbraeucke) |
 | Herne                            | Konrad-Adenauer-Platz 1, 44623 Herne           | 8000164 | [Bahnhof Herne](https://www.bahnhof.de/herne) |
-| | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
+| Herne-Börnig                     | Berkelstraße 34, 44628 Herne                   | 8002779 | [Bahnhof Herne-Börnig](https://www.bahnhof.de/herne-boernig) |
+| Wanne-Eickel Hauptbahnhof        | Heinz-Rühmann-Platz 1, 44649 Herne             | 8000192 | [Bahnhof Wanne-Eickel Hbf](https://www.bahnhof.de/wanne-eickel-hbf) |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
