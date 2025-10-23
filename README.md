@@ -113,6 +113,10 @@
 | Gelsenkirchen-Buer Süd           | Horsterstr. 396, 45899 Gelsenkirchen           | 8002225 | [Bahnhof Gelsenkirchen-Buer Süd](https://www.bahnhof.de/gelsenkirchen-buer-sued) |
 | Gelsenkirchen-Hassel             | Eppmannsweg 98, 45896 Gelsenkirchen            | 8002226 | [Bahnhof Gelsenkirchen-Hassel](https://www.bahnhof.de/gelsenkirchen-hassel) |
 | Gelsenkirchen-Rotthausen         | Karl-Mayer-Straße 58, 45884 Gelsenkirchen      | 8002227 | [Bahnhof Gelsenkirchen-Rotthausen](https://www.bahnhof.de/gelsenkirchen-rotthausen) |
+| Gevelsberg-Knapp                 | Burbecker Str. 8, 58285 Gevelsberg-Knapp       | 8001943 | [Bahnhof Gevelsberg-Knapp](https://www.bahnhof.de/gevelsberg-knapp) |
+| Gevelsberg Hauptbahnhof          | Jahnstrasse 12, 58285 Gevelsberg               | 8002267 | [Bahnhof Gevelsberg Hbf](https://www.bahnhof.de/gevelsberg-hbf) |
+| Gevelsberg West                  | Am Westbahnhof 1, 58285 Gevelsberg             | 8002268 | [Bahnhof Gevelsberg West](https://www.bahnhof.de/gevelsberg-west) |
+| Gevelsberg-Kipp                  | Heidestr. 21, 58285 Gevelsberg-Kipp            | 8002509 | [Bahnhof Gevelsberg-Kipp](https://www.bahnhof.de/gevelsberg-kipp) |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
