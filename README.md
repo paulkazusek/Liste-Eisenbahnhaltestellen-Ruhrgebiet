@@ -34,9 +34,9 @@
 | Dortmund Signal Iduna Park       | Bolmker Weg, 44139 Dortmund                    | 8001523 | [Bahnhof Dortmund Signal Iduna Park](https://www.bahnhof.de/dortmund-signal-iduna-park) |
 | Dortmund-Aplerbeck               | Wittbräucker Str., 44287 Dortmund              | 8001523 | [Bahnhof Dortmund-Aplerbeck](https://www.bahnhof.de/dortmund-aplerbeck) |
 | Dortmund-Aplerbeck Süd           | Mondstr., 44287 Dortmund                       | 8001524 | [Bahnhof Dortmund-Aplerbeck Süd](https://www.bahnhof.de/dortmund-aplerbeck-sued) |
-| Dortmund-Westerfilde             | | 8001525 | [Bahnhof Dortmund-Westerfilde]() |
-| Dortmund-Asseln Mitte            | | 8001526 | [Bahnhof Dortmund-Asseln Mitte]() |
-| Dortmund-Barop                   | | 8001527 | [Bahnhof Dortmund-Barop]() |
+| Dortmund-Westerfilde             | Westerfilder Str., 44357 Dortmund              | 8001525 | [Bahnhof Dortmund-Westerfilde](https://www.bahnhof.de/dortmund-westerfilde) |
+| Dortmund-Asseln Mitte            | Asselburgstr., 44319 Dortmund                  | 8001526 | [Bahnhof Dortmund-Asseln Mitte](https://www.bahnhof.de/dortmund-asseln-mitte) |
+| Dortmund-Barop                   | Baroper Bahnhofstr., 44225 Dortmund            | 8001527 | [Bahnhof Dortmund-Barop](https://www.bahnhof.de/dortmund-barop) |
 | Dortmund-Bövinghausen            | | 8001528 | [Bahnhof Dortmund-Bövinghausen]() |
 | Dortmund-Brackel                 | | 8001529 | [Bahnhof Dortmund-Brackel]() |
 | Dortmund-Derne                   | | 8001530 | [Bahnhof Dortmund-Derne]() |
