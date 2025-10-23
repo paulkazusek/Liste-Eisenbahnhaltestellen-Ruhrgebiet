@@ -142,6 +142,16 @@
 | Wanne-Eickel Hauptbahnhof        | Heinz-Rühmann-Platz 1, 44649 Herne             | 8000192 | [Bahnhof Wanne-Eickel Hbf](https://www.bahnhof.de/wanne-eickel-hbf) |
 | Herten (Westf)                   | Gartenstr. 35, 45699 Herten                    | 8002795 | [Bahnhof Herten (Westf)](https://www.bahnhof.de/herten-westf) |
 | Holzwickede                      | Am Bahnhof 1, 59439 Holzwickede                | 8000392 | [Bahnhof Holzwickede](https://www.bahnhof.de/holzwickede) |
+| Kamen                            | Am Bahnhof 3, 59174 Kamen                      | 8003168 | [Bahnhof Kamen](https://www.bahnhof.de/kamen) |
+| Kamen-Methler                    | Robert-Koch-Str., 59174 Kamen-Methler          | 8003169 | [Bahnhof Kamen-Methler](https://www.bahnhof.de/kamen-methler) |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
