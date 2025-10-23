@@ -137,6 +137,12 @@
 | Hattingen (Ruhr) Mitte           | Martin-Luther-Straße 18, 45525 Hattingen Mitte | 8002640 | [Bahnhof Hattingen (Ruhr) Mitte]() |
 | Herdecke                         | Bahnhofstraße 45, 58313 Herdecke               | 8002769 | [Bahnhof Herdecke](https://www.bahnhof.de/herdecke) |
 | Wittbräucke                      | Ostender Weg, 58313 Herdecke                   | 8006505 | [Bahnhof Wittbräucke](https://www.bahnhof.de/wittbraeucke) |
+| Herne                            | Konrad-Adenauer-Platz 1, 44623 Herne           | 8000164 | [Bahnhof Herne](https://www.bahnhof.de/herne) |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | Wetter (Ruhr)                    | Bahnhofstr. 19, 58300 Wetter                   | 8006386 | [Bahnhof Wetter (Ruhr)](https://www.bahnhof.de/wetter-ruhr) |
