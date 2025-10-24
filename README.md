@@ -151,9 +151,9 @@
 | Marl-Hamm | Spechtstr. 2 a<br>45772 Marl-Hamm | 8003890 | [Bahnhof Marl-Hamm](https://www.bahnhof.de/marl-hamm) |
 | Marl-Sinsen | Bahnhofstr. 158<br>45770 Marl-Sinsen | 8003891 | [Bahnhof Marl-Sinsen](https://www.bahnhof.de/marl-sinsen) |
 | Moers | Homberger Str. 105<br>47441 Moers | 8000644 | [Bahnhof Moers](https://www.bahnhof.de/moers) |
-| | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
+| Mülheim (Ruhr) Hauptbahnhof | Dieter aus dem Siepen Platz 3<br>45468 Mülheim an der Ruhr | 8000259 | [Bahnhof Mülheim (Ruhr) Hbf](https://www.bahnhof.de/muelheim-ruhr-hbf) |
+| Mülheim (Ruhr)-Styrum | Hauskampstr. 14<br>45476 Mülheim an der Ruhr | 8000687 | [Bahnhof Mülheim (Ruhr)-Styrum](https://www.bahnhof.de/muelheim-ruhr-styrum) |
+| Mülheim (Ruhr) West | Friedrich-Ebert-Str. 210<br>45473 Mülheim an der Ruhr | 8004122 | [Bahnhof Mülheim (Ruhr) West](https://www.bahnhof.de/muelheim-ruhr-west) |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | Wetter (Ruhr) | Bahnhofstr. 19<br>58300 Wetter | 8006386 | [Bahnhof Wetter (Ruhr)](https://www.bahnhof.de/wetter-ruhr) |
