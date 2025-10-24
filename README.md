@@ -162,6 +162,14 @@
 | Recklinghausen Süd | Am Südbahnhof 4-6<br>45657 Recklinghausen-Süd | 8000887 | [Bahnhof Recklinghausen Süd](https://www.bahnhof.de/recklinghausen-sued) |
 | Rheinberg (Rheinl) | Bahnhofstr. 59<br>47495 Rheinberg | 8005059 | [Bahnhof Rheinberg (Rheinl)](https://www.bahnhof.de/rheinberg-rheinl) |
 | Millingen | Robert-Koch-Str. 5<br>47495 Rheinberg | 8004023 | [Bahnhof Millingen](https://www.bahnhof.de/millingen) |
+| Schwelm | Bahnhofsplatz 2<br>58332 Schwelm | 8000033 | [Bahnhof Schwelm](https://www.bahnhof.de/schwelm) |
+| Schwelm West | Jessinghauserstr. 61<br>58382 Schwelm | 8005488 | [Bahnhof Schwelm West](https://www.bahnhof.de/schwelm-west) |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | Wesel | Franz-Etzel-Platz 17<br>46483 Wesel | 8000242 | [Bahnhof Wesel](https://www.bahnhof.de/wesel) |
