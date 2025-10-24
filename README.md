@@ -160,8 +160,8 @@
 | Oberhausen-Sterkrade | Friedrichstr. 4<br>46145 Oberhausen | 8004542 | [Bahnhof Oberhausen-Sterkrade](https://www.bahnhof.de/oberhausen-sterkrade) |
 | Recklinghausen Hauptbahnhof | Große Perdekamp Str. 2<br>45657 Recklinghausen | 8000307 | [Recklinghausen Hbf](https://www.bahnhof.de/recklinghausen-hbf) |
 | Recklinghausen Süd | Am Südbahnhof 4-6<br>45657 Recklinghausen-Süd | 8000887 | [Bahnhof Recklinghausen Süd](https://www.bahnhof.de/recklinghausen-sued) |
-| | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
+| Rheinberg (Rheinl) | Bahnhofstr. 59<br>47495 Rheinberg | 8005059 | [Bahnhof Rheinberg (Rheinl)](https://www.bahnhof.de/rheinberg-rheinl) |
+| Millingen | Robert-Koch-Str. 5<br>47495 Rheinberg | 8004023 | [Bahnhof Millingen](https://www.bahnhof.de/millingen) |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | Wesel | Franz-Etzel-Platz 17<br>46483 Wesel | 8000242 | [Bahnhof Wesel](https://www.bahnhof.de/wesel) |
