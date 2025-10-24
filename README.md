@@ -145,7 +145,7 @@
 | Holzwickede | Am Bahnhof 1<br>59439 Holzwickede | 8000392 | [Bahnhof Holzwickede](https://www.bahnhof.de/holzwickede) |
 | Kamen | Am Bahnhof 3<br>59174 Kamen | 8003168 | [Bahnhof Kamen](https://www.bahnhof.de/kamen) |
 | Kamen-Methler | Robert-Koch-Str.<br>59174 Kamen-Methler | 8003169 | [Bahnhof Kamen-Methler](https://www.bahnhof.de/kamen-methler) |
-| | | | [Bahnhof ]() |
+| Lünen Hauptbahnhof | Münsterstr. 50<br>44534 Lünen | 8000239 | [Bahnhof Lünen Hbf](https://www.bahnhof.de/luenen-hbf) |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
