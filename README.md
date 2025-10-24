@@ -158,8 +158,8 @@
 | Oberhausen-Holten | Oranienstraße 3<br>46147 Oberhausen | 8004540 | [Bahnhof Oberhausen-Holten](https://www.bahnhof.de/oberhausen-holten) |
 | Oberhausen-Osterfeld Süd | Bottroper Str. 150<br>46117 Oberhausen | 8004541 | [Bahnhof Oberhausen-Osterfeld Süd]() |
 | Oberhausen-Sterkrade | Friedrichstr. 4<br>46145 Oberhausen | 8004542 | [Bahnhof Oberhausen-Sterkrade](https://www.bahnhof.de/oberhausen-sterkrade) |
-| | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
+| Recklinghausen Hauptbahnhof | Große Perdekamp Str. 2<br>45657 Recklinghausen | 8000307 | [Recklinghausen Hbf](https://www.bahnhof.de/recklinghausen-hbf) |
+| Recklinghausen Süd | Am Südbahnhof 4-6<br>45657 Recklinghausen-Süd | 8000887 | [Bahnhof Recklinghausen Süd](https://www.bahnhof.de/recklinghausen-sued) |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
