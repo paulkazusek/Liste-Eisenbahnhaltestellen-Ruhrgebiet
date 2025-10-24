@@ -177,7 +177,7 @@
 | Unna-Königsborn | Hubert-Biernat Str.<br>59425 Unna-Königsborn | 8005971 | [Bahnhof Unna-Königsborn](https://www.bahnhof.de/unna-koenigsborn) |
 | Voerde (Niederrhein) | Bahnhofstr. 94<br>46562 Voerde (Niederrhein) | 8006098 | [Bahnhof Voerde (Niederrhein)](https://www.bahnhof.de/voerde-niederrhein) |
 | Friedrichsfeld (Niederrhein) | Am Industriepark 39<br>46562 Voerde | 8002109 | [Bahnhof Friedrichsfeld (Niederrhein)](https://www.bahnhof.de/friedrichsfeld-niederrhein) |
-| | | | [Bahnhof ]() |
+| Werne a d Lippe | Am Bahnhof<br>59368 Werne (a. d. Lippe) | 8006348 | [Bahnhof Werne a d Lippe](https://www.bahnhof.de/werne-a-d-lippe) |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
