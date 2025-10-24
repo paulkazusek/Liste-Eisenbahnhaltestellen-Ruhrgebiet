@@ -147,9 +147,9 @@
 | Kamen-Methler | Robert-Koch-Str.<br>59174 Kamen-Methler | 8003169 | [Bahnhof Kamen-Methler](https://www.bahnhof.de/kamen-methler) |
 | Lünen Hauptbahnhof | Münsterstr. 50<br>44534 Lünen | 8000239 | [Bahnhof Lünen Hbf](https://www.bahnhof.de/luenen-hbf) |
 | Lünen Preußen | Preußenstr. 1<br>44532 Lünen (Horstmar) | 8004883 | [Bahnhof Lünen Preußen](https://www.bahnhof.de/luenen-preussen) |
-| | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
+| Marl Mitte | Marsweg 9<br>45770 Marl-Mitte | 8003888 | [Bahnhof Marl Mitte](https://www.bahnhof.de/marl-mitte) |
+| Marl-Hamm | Spechtstr. 2 a<br>45772 Marl-Hamm | 8003890 | [Bahnhof Marl-Hamm](https://www.bahnhof.de/marl-hamm) |
+| Marl-Sinsen | Bahnhofstr. 158<br>45770 Marl-Sinsen | 8003891 | [Bahnhof Marl-Sinsen](https://www.bahnhof.de/marl-sinsen) |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
