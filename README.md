@@ -1,6 +1,6 @@
 # Eisenbahnhaltestellen im Ruhrgebiet
 
-| Name der Station                 | Adresse                                          | IBNR    | bahnhof.de                          |
+| Name der Station | Adresse | IBNR | bahnhof.de |
 |----------------------------------|--------------------------------------------------|---------|-------------------------------------|
 | Alpen                            | Bahnhofstr. 1<br>46519 Alpen                     | 8000500 | [Bahnhof Alpen](https://www.bahnhof.de/alpen)
 | Bochum Hauptbahnhof              | Kurt-Schumacher-Platz 13-15<br>44787 Bochum      | 8000041 | [Bochum Hbf](https://www.bahnhof.de/bochum-hbf) |
