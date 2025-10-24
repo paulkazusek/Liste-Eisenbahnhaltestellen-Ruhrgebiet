@@ -154,6 +154,14 @@
 | Mülheim (Ruhr) Hauptbahnhof | Dieter aus dem Siepen Platz 3<br>45468 Mülheim an der Ruhr | 8000259 | [Bahnhof Mülheim (Ruhr) Hbf](https://www.bahnhof.de/muelheim-ruhr-hbf) |
 | Mülheim (Ruhr)-Styrum | Hauskampstr. 14<br>45476 Mülheim an der Ruhr | 8000687 | [Bahnhof Mülheim (Ruhr)-Styrum](https://www.bahnhof.de/muelheim-ruhr-styrum) |
 | Mülheim (Ruhr) West | Friedrich-Ebert-Str. 210<br>45473 Mülheim an der Ruhr | 8004122 | [Bahnhof Mülheim (Ruhr) West](https://www.bahnhof.de/muelheim-ruhr-west) |
+| Oberhausen Hauptbahnhof | Willy-Brandt-Platz 1<br>46045 Oberhausen | 8000286 | [Oberhausen Hbf](https://www.bahnhof.de/oberhausen-hbf) |
+| Oberhausen-Holten | Oranienstraße 3<br>46147 Oberhausen | 8004540 | [Bahnhof Oberhausen-Holten](https://www.bahnhof.de/oberhausen-holten) |
+| Oberhausen-Osterfeld Süd | Bottroper Str. 150<br>46117 Oberhausen | 8004541 | [Bahnhof Oberhausen-Osterfeld Süd]() |
+| Oberhausen-Sterkrade | Friedrichstr. 4<br>46145 Oberhausen | 8004542 | [Bahnhof Oberhausen-Sterkrade](https://www.bahnhof.de/oberhausen-sterkrade) |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | Wetter (Ruhr) | Bahnhofstr. 19<br>58300 Wetter | 8006386 | [Bahnhof Wetter (Ruhr)](https://www.bahnhof.de/wetter-ruhr) |
