@@ -3,7 +3,7 @@
 | Name der Station | Adresse | IBNR | bahnhof.de |
 |----------------------------------|--------------------------------------------------|---------|-------------------------------------|
 | Alpen | Bahnhofstr. 1<br>46519 Alpen | 8000500 | [Bahnhof Alpen](https://www.bahnhof.de/alpen) |
-| Bochum Hauptbahnhof              | Kurt-Schumacher-Platz 13-15<br>44787 Bochum      | 8000041 | [Bochum Hbf](https://www.bahnhof.de/bochum-hbf) |
+| Bochum Hauptbahnhof | Kurt-Schumacher-Platz 13-15<br>44787 Bochum | 8000041 | [Bochum Hbf](https://www.bahnhof.de/bochum-hbf) |
 | Bönen                            | Bahnhofstraße<br>59199 Bönen                     | 8001061 | [Bahnhof Bönen](https://www.bahnhof.de/boenen) |
 | Bönen-Nordbögge                  | Hammer Str.<br>59199 Bönen (Nordbögge)           | 8004448 | [Banhhof Bönen-Nordbögge](https://www.bahnhof.de/boenen-nordboegge) |
 | Bottrop Hauptbahnhof             | Am Hauptbahnhof 1<br>46244 Bottrop               | 8000047 | [Bottrop Hbf](https://www.bahnhof.de/bottrop-hbf) |
