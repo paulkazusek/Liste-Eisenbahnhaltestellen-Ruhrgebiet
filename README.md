@@ -169,6 +169,12 @@
 | Selm | Lüdinghausenerstr.<br>59379 Selm | 8005525 | [Bahnhof Selm](https://www.bahnhof.de/selm) |
 | Selm-Beifang | Beifanger-Weg<br>59379 Selm | 8005526 | [Bahnhof Selm-Beifang](https://www.bahnhof.de/selm-beifang) |
 | Bork (Westf) | Bahnhofstr.<br>59379 Selm (Bork) | 8001097 | [Bahnhof Bork (Westf)](https://www.bahnhof.de/bork-westf) |
+| Unna | Bahnhofstraße<br>59427 Unna | 8000171 | [Bahnhof Unna](https://www.bahnhof.de/unna) |
+| Unna West | Mühlenstr.<br>59423 Unna | 8003925 | [Bahnhof Unna West](https://www.bahnhof.de/unna-west) |
+| Hemmerde | Auf dem Siepen<br>59427 Unna (Hemmerde) | 8002745 | [Bahnhof Hemmerde](https://www.bahnhof.de/hemmerde) |
+| Lünern | Lünerner Bahnhofstr.<br>59427 Unna (Lünern) | 8003788 | [Bahnhof Lünern](https://www.bahnhof.de/luenern) |
+| Massen | Massener Bahnhofstr.<br>59427 Unna | 8003909 | [Bahnhof Massen](https://www.bahnhof.de/massen) |
+| Unna-Königsborn | Hubert-Biernat Str.<br>59425 Unna-Königsborn | 8005971 | [Bahnhof Unna-Königsborn](https://www.bahnhof.de/unna-koenigsborn) |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
