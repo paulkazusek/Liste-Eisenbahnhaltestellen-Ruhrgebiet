@@ -150,7 +150,7 @@
 | Marl Mitte | Marsweg 9<br>45770 Marl-Mitte | 8003888 | [Bahnhof Marl Mitte](https://www.bahnhof.de/marl-mitte) |
 | Marl-Hamm | Spechtstr. 2 a<br>45772 Marl-Hamm | 8003890 | [Bahnhof Marl-Hamm](https://www.bahnhof.de/marl-hamm) |
 | Marl-Sinsen | Bahnhofstr. 158<br>45770 Marl-Sinsen | 8003891 | [Bahnhof Marl-Sinsen](https://www.bahnhof.de/marl-sinsen) |
-| | | | [Bahnhof ]() |
+| Moers | Homberger Str. 105<br>47441 Moers | 8000644 | [Bahnhof Moers](https://www.bahnhof.de/moers) |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
