@@ -164,9 +164,9 @@
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
+| Wesel | Franz-Etzel-Platz 17<br>46483 Wesel | 8000242 | [Bahnhof Wesel](https://www.bahnhof.de/wesel) |
+| Wesel-Feldmark | Holzweg 44<br>46483 Wesel | 8006356 | [Bahnhof Wesel-Feldmark](https://www.bahnhof.de/wesel-feldmark) |
+| Wesel-Blumenkamp | Feuerdornstr. 93<br>46487 Wesel | 8001030 | [Bahnhof Wesel-Blumenkamp](https://www.bahnhof.de/wesel-blumenkamp) |
 | Wetter (Ruhr) | Bahnhofstr. 19<br>58300 Wetter | 8006386 | [Bahnhof Wetter (Ruhr)](https://www.bahnhof.de/wetter-ruhr) |
 | Witten Hauptbahnhof | Bergerstr. 35<br>58452 Witten | 8000251 | [Witten Hbf](https://www.bahnhof.de/witten-hbf) |
 | Witten-Annen Nord | Annenstraße 179<br>58453 Witten | 8006510 | [Bahnhof Witten-Annen Nord](https://www.bahnhof.de/witten-annen-nord) |
