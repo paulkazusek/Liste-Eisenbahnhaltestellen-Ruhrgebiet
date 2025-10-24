@@ -1,4 +1,4 @@
-# Eisenbahnhaltestellen im Ruhrgebiet
+# Bahnstationen im Ruhrgebiet 2025
 
 | Name der Station | Adresse | IBNR | bahnhof.de |
 |------------------|---------|------|------------|
