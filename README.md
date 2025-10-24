@@ -164,8 +164,8 @@
 | Millingen | Robert-Koch-Str. 5<br>47495 Rheinberg | 8004023 | [Bahnhof Millingen](https://www.bahnhof.de/millingen) |
 | Schwelm | Bahnhofsplatz 2<br>58332 Schwelm | 8000033 | [Bahnhof Schwelm](https://www.bahnhof.de/schwelm) |
 | Schwelm West | Jessinghauserstr. 61<br>58382 Schwelm | 8005488 | [Bahnhof Schwelm West](https://www.bahnhof.de/schwelm-west) |
-| | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
+| Schwerte (Ruhr) | Bahnhofstr. 35<br>58239 Schwerte | 8000037 | [Bahnhof Schwerte (Ruhr)]() |
+| Schwerte-Ergste | Bürenbrucherweg<br>58239 Schwerte | 8001836 | [Bahnhof Schwerte-Ergste](https://www.bahnhof.de/schwerte-ergste) |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
