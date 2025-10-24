@@ -166,9 +166,9 @@
 | Schwelm West | Jessinghauserstr. 61<br>58382 Schwelm | 8005488 | [Bahnhof Schwelm West](https://www.bahnhof.de/schwelm-west) |
 | Schwerte (Ruhr) | Bahnhofstr. 35<br>58239 Schwerte | 8000037 | [Bahnhof Schwerte (Ruhr)]() |
 | Schwerte-Ergste | Bürenbrucherweg<br>58239 Schwerte | 8001836 | [Bahnhof Schwerte-Ergste](https://www.bahnhof.de/schwerte-ergste) |
-| | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
+| Selm | Lüdinghausenerstr.<br>59379 Selm | 8005525 | [Bahnhof Selm](https://www.bahnhof.de/selm) |
+| Selm-Beifang | Beifanger-Weg<br>59379 Selm | 8005526 | [Bahnhof Selm-Beifang](https://www.bahnhof.de/selm-beifang) |
+| Bork (Westf) | Bahnhofstr.<br>59379 Selm (Bork) | 8001097 | [Bahnhof Bork (Westf)](https://www.bahnhof.de/bork-westf) |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
