@@ -178,11 +178,6 @@
 | Voerde (Niederrhein) | Bahnhofstr. 94<br>46562 Voerde (Niederrhein) | 8006098 | [Bahnhof Voerde (Niederrhein)](https://www.bahnhof.de/voerde-niederrhein) |
 | Friedrichsfeld (Niederrhein) | Am Industriepark 39<br>46562 Voerde | 8002109 | [Bahnhof Friedrichsfeld (Niederrhein)](https://www.bahnhof.de/friedrichsfeld-niederrhein) |
 | Werne a d Lippe | Am Bahnhof<br>59368 Werne (a. d. Lippe) | 8006348 | [Bahnhof Werne a d Lippe](https://www.bahnhof.de/werne-a-d-lippe) |
-| | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
-| | | | [Bahnhof ]() |
 | Wesel | Franz-Etzel-Platz 17<br>46483 Wesel | 8000242 | [Bahnhof Wesel](https://www.bahnhof.de/wesel) |
 | Wesel-Feldmark | Holzweg 44<br>46483 Wesel | 8006356 | [Bahnhof Wesel-Feldmark](https://www.bahnhof.de/wesel-feldmark) |
 | Wesel-Blumenkamp | Feuerdornstr. 93<br>46487 Wesel | 8001030 | [Bahnhof Wesel-Blumenkamp](https://www.bahnhof.de/wesel-blumenkamp) |
