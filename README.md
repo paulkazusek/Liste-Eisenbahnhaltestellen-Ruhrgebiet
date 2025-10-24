@@ -175,6 +175,11 @@
 | Lünern | Lünerner Bahnhofstr.<br>59427 Unna (Lünern) | 8003788 | [Bahnhof Lünern](https://www.bahnhof.de/luenern) |
 | Massen | Massener Bahnhofstr.<br>59427 Unna | 8003909 | [Bahnhof Massen](https://www.bahnhof.de/massen) |
 | Unna-Königsborn | Hubert-Biernat Str.<br>59425 Unna-Königsborn | 8005971 | [Bahnhof Unna-Königsborn](https://www.bahnhof.de/unna-koenigsborn) |
+| Voerde (Niederrhein) | Bahnhofstr. 94<br>46562 Voerde (Niederrhein) | 8006098 | [Bahnhof Voerde (Niederrhein)](https://www.bahnhof.de/voerde-niederrhein) |
+| Friedrichsfeld (Niederrhein) | Am Industriepark 39<br>46562 Voerde | 8002109 | [Bahnhof Friedrichsfeld (Niederrhein)](https://www.bahnhof.de/friedrichsfeld-niederrhein) |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
+| | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
 | | | | [Bahnhof ]() |
